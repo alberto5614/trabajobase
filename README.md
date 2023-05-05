@@ -1,6 +1,6 @@
 # trabajobase
 trabajo numero 5 grupal modulo tres
-trabajo bae de datos 
+trabajo base de datos 
 Nombre del Proyecto: Trabajo grupal numero cinco  
 
 Fecha: 04-05-2020 
